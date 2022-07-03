@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning javascript
 - 🤔 I’m looking for help with web development
 - 💬 Ask me about data structures and algorithms
-- 📫 How to reach me: Email{charandeep.uppalapati@gmail.com}
+- 📫 How to reach me: [Email](charandeep.uppalapati@gmail.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i watched onepiece upto latest episode
 
